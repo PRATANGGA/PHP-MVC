@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../OOPphp"
+		},
+		{
+			"path": "../../../mvc4"
+		},
+		{
+			"path": "../../../uas2"
+		},
+		{
+			"path": "D:/ApplicationsLaravel"
+		},
+		{
+			"path": "../../../composer_mpdf3"
+		}
+	],
+	"settings": {}
+}
